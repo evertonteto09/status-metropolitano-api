@@ -107,7 +107,7 @@ const METRO_LINES = [
 const CPTM_LINES = [
     "10",
     "11",
-    "12",
+    "12"
 ];
 
 const PRIVATE_LINES = [
